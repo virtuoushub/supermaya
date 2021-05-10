@@ -1,12 +1,12 @@
 ---
 layout: "layouts/home.njk"
-title: Simple Blog
+title: 🥕🐇 - Fur and Growing in Las Vegas - 🎲🎰👯
 postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: ""
 ---
 
-An 11ty starter kit designed to help you add rich features to a site without a complicated build process.
+A ChartHopper’s experience at AWS re:Invent 2021
 
 <ul>
     <li>

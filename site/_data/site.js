@@ -1,21 +1,21 @@
 module.exports = {
-  name: "Supermaya",
+  name: "Hoppy Hours",
   shortDesc:
-    "An 11ty starter kit designed to help you add rich features to a site without a complicated build process.",
+    "A ChartHopper’s experience at AWS re:Invent 2021",
   url: "",
-  authorEmail: "mike@madebymike.com.au",
-  authorHandle: "@MikeRiethmuller",
-  authorName: "Mike",
+  authorEmail: "peter.colapietro@charthop.com",
+  authorHandle: "@pc",
+  authorName: "Pete",
   postsPerPage: 4,
   socialImage: "/img/social.jpg",
   theme: {
     primary: {
-      background: "white",
+      background: "#3CB7E7",
       text: "black",
       highlight: "#666",
     },
     secondary: {
-      background: "black",
+      background: "#2E5D84",
       text: "white",
       highlight: "#666",
     },
