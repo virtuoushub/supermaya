@@ -1,12 +1,23 @@
 ---
-title: Getting started
-date: "2019-11-01"
-description: "Supermaya is an Eleventy starter kit designed to help you add rich features to a blog or website without the need for a complicated build process."
+title: AWS re:Invent 2021 - First day
+date: "2021-11-29"
+description: "Firsts are a unique opportunity, first impression, first place, first day. Find out what the first day of AWS re:Invent brought."
 tags:
-  - demo-content
-  - sample-post
+  - aws
+  - re:invent
   - blog
 ---
+
+
+## API308
+
+<img src="/API308-1.png" width="600" alt="Slide from API308" />
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+---
+
+# FIXME boilerplate
 
 It comes with all the blog standard features:
 
@@ -141,9 +152,3 @@ Supermaya is capable of generating criticalCSS although this is turned off by de
 ```
 site/_data/site.js
 ```
-
-## Why "Supermaya"
-
-A friend and designer Matt Barron, helped me out with some initial design work and used it as a placeholder for the site name in early mock-ups. As usual development names grow on you. I later learned it was the name of his family dog. It's a combination of Superman and Maya, one of his kids favourite cartoon characters. That settles it, right? And here's a picture:
-
-<img src="/supermaya.jpg" width="600"/>
